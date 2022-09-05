@@ -3,7 +3,7 @@ public class Student {
     // property
     String surname;
     String firstname;
-    String middleInitial;
+    char middleInitial;
     String dateOfBirth;
     int studentNumber;
     String studentEmailAddress;
